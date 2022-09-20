@@ -13,7 +13,7 @@ N.B. The notebooks will only work if the datasets from both 1. and 2. (below) ar
 
 ### Real-world applications - datasets ### 
 
-### 1. Skin Segmentation Data Set ### 
+### 1. Skin Segmentation Dataset ### 
 
 Abstract: The Skin Segmentation dataset is constructed over B, G, R color space. Skin and Nonskin dataset is generated using skin textures from face images of diversity of age, gender, and race people.
 
