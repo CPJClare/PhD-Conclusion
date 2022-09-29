@@ -1,6 +1,8 @@
 # PhD-Conclusion
 Thesis conclusion, UK publisher: Exact Gaussian versus exact Student's-t acquisition function gradients, for acquisition function optimisation in BayesOpt.
 
+Includes all proposed thesis chapter experiments i.e. Python code, results and graphs.
+
 Each of the Jupyter notebooks herein should run "out-of-the-box" in Google Colab.
 
 https://research.google.com/colaboratory/faq.html
